@@ -22,14 +22,7 @@ const Footer = () => {
           LinkedIn
         </a>
 
-        <a
-          className="hover:underline"
-          href="https://github.com/azad/resume-Builder"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Repo
-        </a>
+      
       </div>
     </div>
   );
