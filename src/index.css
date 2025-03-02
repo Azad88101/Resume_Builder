@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: gilroy;
+    src: url(./fonts/Gilroy-Regular.ttf);
+}
+
+
+body {
+    font-family: gilroy;
+
+} 
+
+
+
+@keyframes shine {
+    0% {
+        background-position: -200%;
+    }
+
+    100% {
+        background-position: 200%;
+    }
+}
+
+.shining-text {
+    background: linear-gradient(110deg, #8c8c8e, 45%, #fff, 55%, #838385);
+    background-size: 200% auto;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: shine 5s infinite linear;
+    /* Slower animation */
+}
