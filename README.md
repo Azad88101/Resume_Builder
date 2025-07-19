@@ -2,6 +2,7 @@
 
 _Craft Your Future with a Perfect Resume_
 
+
 ![last-commit](https://img.shields.io/github/last-commit/Azad88101/Resume_Builder?style=flat&logo=git&logoColor=white&color=0080ff)
 ![repo-top-language](https://img.shields.io/github/languages/top/Azad88101/Resume_Builder?style=flat&color=0080ff)
 ![repo-language-count](https://img.shields.io/github/languages/count/Azad88101/Resume_Builder?style=flat&color=0080ff)
@@ -20,9 +21,18 @@ _Craft Your Future with a Perfect Resume_
 
 ---
 
+## Live Demo
+
+🌐 **Try the app here:** [azad-resume-builder.netlify.app](https://azad-resume-builder.netlify.app/)
+
+---
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
+- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -46,7 +56,7 @@ This project streamlines the process of crafting and exporting personalized resu
 - 🔍 **Code Quality:** Enforces clean, error-free code with ESLint.
 - 🧩 **Extensible Architecture:** Easily customizable and extendable for new features.
 
----
+
 
 ## Getting Started
 
