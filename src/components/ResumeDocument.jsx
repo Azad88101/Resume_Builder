@@ -198,7 +198,7 @@ import {
 // Styles for the PDF document
 const styles = StyleSheet.create({
   page: {
-    padding: 40,
+    padding: 20,
     fontFamily: "Helvetica",
     backgroundColor: "#ffffff", // White background
   },
