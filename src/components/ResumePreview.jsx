@@ -45,7 +45,7 @@ const ResumePreview = ({ formData }) => {
           {formData.experience || "Your Experience"}
         </p>
         <p>
-          <strong className="text-[#242424] font-semibold  ">Carrier Objective:</strong>{" "}
+          <strong className="text-[#242424] font-semibold  ">Career Objective:</strong>{" "}
           {formData.objective || "Your goals/objective"}
         </p>
 
